@@ -83,7 +83,7 @@ I want to continue development in the area of description of card. i.e. developi
 - [Example resource 1](https://www.w3schools.com) - This helped me understanding the flexbox properties. I really liked this pattern and will use it going forward.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/babybhavani)
+- Frontend Mentor - [@babybhavani](https://www.frontendmentor.io/profile/babybhavani)
   
 ## Acknowledgments
 
